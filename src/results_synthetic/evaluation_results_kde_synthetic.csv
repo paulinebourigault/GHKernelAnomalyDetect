@@ -1,0 +1,10 @@
+Kernel,Best AUC-ROC,Best Parameters
+Full GH Kernel,0.9562573099415205,"{'alpha': 2.4, 'beta': 0.3, 'delta': 0.8, 'lambda': 0.5, 'mu': 0.0}"
+GH Kernel (Gaussian),0.9658479532163743,"{'alpha': 2.4, 'beta': -0.2, 'delta': 0.8, 'lambda': 0.0, 'mu': 0.0}"
+GH Kernel (NIG),0.9665497076023393,"{'alpha': 2.4, 'beta': 0.3, 'delta': 0.8, 'lambda': -1.0, 'mu': 0.0}"
+GH Kernel (Student's t),0.9672514619883041,"{'alpha': 2.4, 'beta': -0.2, 'delta': 1.0, 'lambda': -1.5, 'mu': 0.0}"
+GH Kernel (Hyperbolic),0.9494736842105264,"{'alpha': 1.7999999999999998, 'beta': 0.09999999999999998, 'delta': 0.8, 'lambda': 0.5, 'mu': 0.0}"
+Gaussian KDE,0.20327485380116955,{'bandwidth': 0.01}
+Tophat KDE,0.5,{'bandwidth': 0.01}
+Exponential KDE,0.05450292397660817,{'bandwidth': 0.01}
+Epanechnikov KDE,0.5,{'bandwidth': 0.01}

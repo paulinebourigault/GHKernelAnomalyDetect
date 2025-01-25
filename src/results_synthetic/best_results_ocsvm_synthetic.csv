@@ -1,0 +1,10 @@
+Kernel,Best AUC-ROC,Best Parameters,Best nu
+RBF,0.975672514619883,{'gamma': 0.1},0.1
+Polynomial,0.8704093567251462,"{'coef0': 1, 'degree': 3, 'gamma': 0.5}",0.3
+Linear,0.5471345029239767,{},0.2
+Sigmoid,0.4374269005847954,"{'coef0': 1, 'gamma': 0.5}",0.3
+Full GH Kernel,0.9969590643274854,"{'alpha': 1.5, 'beta': 0.5, 'delta': 1.5, 'lambda': -1.0, 'mu': -0.5}",0.1
+GH Kernel (Gaussian),0.9812865497076023,"{'alpha': 2.0, 'beta': 0.0, 'delta': 1.0, 'lambda': 0.5, 'mu': 0.0}",0.05
+GH Kernel (NIG),0.9887719298245614,"{'alpha': 3.0, 'beta': 0.5, 'delta': 1.5, 'lambda': -0.5, 'mu': 0.0}",0.1
+GH Kernel (Student's t),0.9843274853801169,"{'alpha': 3.0, 'beta': 0.0, 'delta': 1.0, 'lambda': -1.0, 'mu': 0.0}",0.3
+GH Kernel (Hyperbolic),0.9915789473684211,"{'alpha': 2.5, 'beta': 0.5, 'delta': 1.0, 'lambda': 1.0, 'mu': 0.0}",0.1
