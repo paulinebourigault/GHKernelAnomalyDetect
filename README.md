@@ -14,8 +14,6 @@ Authors: [Pauline Bourigault](https://profiles.imperial.ac.uk/p.bourigault22), [
 
 > **Abstract:** *We present a novel approach to anomaly detection by integrating Generalized Hyperbolic (GH) processes into kernel-based methods. The GH distribution, known for its flexibility in modeling skewness, heavy tails, and kurtosis, helps to capture complex patterns in data that deviate from Gaussian assumptions. We propose a GH-based kernel function and utilize it within Kernel Density Estimation (KDE) and One-Class Support Vector Machines (OCSVM) to develop anomaly detection frameworks. Theoretical results confirmed the positive semi-definiteness and consistency of the GH-based kernel, ensuring its suitability for machine learning applications. Empirical evaluation on synthetic and real-world datasets showed that our method improves detection performance in scenarios involving heavy-tailed and asymmetric or imbalanced distributions.
 
-<details>
-
 ## **Repository Structure**
 
 The repository includes the following Python scripts in the src folder:
