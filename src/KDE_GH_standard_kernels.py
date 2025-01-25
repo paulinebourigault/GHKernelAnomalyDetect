@@ -5,7 +5,7 @@ This script implements kernel density estimation (KDE) for anomaly detection usi
 - Generalized Hyperbolic (GH) Kernels (Gaussian, NIG, Student's t, Hyperbolic)
 - Standard KDE Kernels (Gaussian, Tophat, Exponential, Epanechnikov)
 
-Author: Pauline Bourigault (Modified)
+Author: Pauline Bourigault
 Date: 27/11/2024
 """
 
