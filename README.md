@@ -1,6 +1,6 @@
 ## Kernel-Based Anomaly Detection Using Generalized Hyperbolic Processes [ICASSP 2025]
 
-Official implementation of the paper "Kernel-Based Anomaly Detection Using Generalized Hyperbolic Processes".
+Official implementation of the paper ["Kernel-Based Anomaly Detection Using Generalized Hyperbolic Processes"](https://arxiv.org/abs/2501.15265).
 
 Authors: [Pauline Bourigault](https://profiles.imperial.ac.uk/p.bourigault22), [Danilo P. Mandic](https://profiles.imperial.ac.uk/d.mandic)
 
